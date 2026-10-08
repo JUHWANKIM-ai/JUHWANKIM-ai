@@ -69,8 +69,10 @@ the goal of developing reliable AI systems for quantitative finance.
 
 ## ✨ Extracurricular Activities
 
+- **Undergraduate AI/ML Club Alliance "Bitamin"**, Member · 2024.08 – 2026.02
+  - Conducted weekly study sessions on deep learning and machine learning
+  - Completed 3 AI projects (CV, Gen AI, Causal Inference) and participated in conference
 - **Samaritan's Purse Korea**, Supporter (Volunteer) · 2023.03 – 2023.07
-- **Nowon-gu Public Health Center, Seoul**, COVID-19 Quarantine and Response Duty (Military Service) · 2021.01 – 2022.10
 - **eduPLEX**, Mathematics Instructor · 2019.02 – 2021.01
 
 ## 🛠️ Tech Stack

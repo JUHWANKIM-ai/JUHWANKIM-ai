@@ -2,10 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=150&section=header" width="100%" alt="" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=8B5CF6&center=true&vCenter=true&width=620&lines=Diffusion-based+generative+models+for+finance;Reinforcement+learning+for+deep+hedging;Reliable+AI+for+quantitative+finance" alt="Research topics" />
-</p>
-
 ## 🌱 About Me
 
 I'm a Ph.D. student in Industrial Engineering (Financial Engineering) at **Hanyang University**, advised by

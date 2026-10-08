@@ -54,7 +54,7 @@ the goal of developing reliable AI systems for quantitative finance.
 ## 🚀 Research Projects
 
 - **Neural network-based decision support system for ELS hedging** · Seoul Business Agency (SBA) · 2026.06 – Present ·
-  *Project Leader* · related: [PI-DeepONet-ELS](https://github.com/JUHWANKIM-ai/PI-DeepONet-ELS)
+  *Project Leader*
 - **Space Data Analytics and Decision Support** · SPACEMAP (industry project) · 2024.07 – 2026.08 · *Project Leader*
 - **Pairs trading via contrastive learning** · FinX Lab, Hanyang University · 2023.07 – 2024.07 ·
   *Undergraduate Research Intern* · [Pairs_Trading](https://github.com/JUHWANKIM-ai/Pairs_Trading)

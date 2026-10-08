@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=180&section=header&text=Juhwan%20Kim&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20in%20Finance%20%C2%B7%20Hanyang%20University&descSize=17&descAlignY=58" width="100%" alt="Juhwan Kim" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=150&section=header" width="100%" alt="" />
 </p>
 
 <p align="center">

@@ -57,14 +57,14 @@ the goal of developing reliable AI systems for quantitative finance.
   *Project Leader*
 - **Space Data Analytics and Decision Support** · SPACEMAP (industry project) · 2024.07 – 2026.08 · *Project Leader*
 - **Pairs trading via contrastive learning** · FinX Lab, Hanyang University · 2023.07 – 2024.07 ·
-  *Undergraduate Research Intern* · [Pairs_Trading](https://github.com/JUHWANKIM-ai/Pairs_Trading)
+  *Undergraduate Research Intern*
 
 ## 🏆 Awards & Certificates
 
 - 🥇 **1st Prize**, XForecast Challenge @ KDD 2026, ACM SIGKDD · 2026.08 · Team *Finx_hanyang*
   <br><sub>Multimodal forecasting combining stock price time series and news text</sub>
 - 🥈 **2nd Prize**, 2024 National Collegiate Motorboat Racing Data Analytics Competition, Korea Sports Promotion
-  Foundation (KSPO) · 2024.10 · [KBOAT](https://github.com/JUHWANKIM-ai/KBOAT)
+  Foundation (KSPO) · 2024.10
 - 📜 KCCI Computer Specialist in Spreadsheet & Database (Level I) · 2022.12
 
 ## ✨ Extracurricular Activities

@@ -33,6 +33,7 @@ the goal of developing reliable AI systems for quantitative finance.
 - **[C4]** **Kim, Juhwan.** "QuantDiffusion: Multivariate Financial Scenario Generation for Portfolio Risk Assessment
   via Realized Volatility Decomposition." *Proceedings of the 7th ACM International Conference on AI in Finance
   (ICAIF '26)*, 2026.
+  [![Code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JUHWANKIM-ai/QuantDiffusion)
 - **[C3]** Kim, Namhyoung, **Juhwan Kim**, and Jae Wook Song\*. "Vector Quantization for Efficient Financial
   Representation Learning." *Spring Joint Conference of KIIE/KORMS/KSS*, 2025.06, Jeju, Korea.
 - **[C2]** Choi, Shawn SH, Jun Young Byun, Maxime Pognon, **Juhwan Kim**, et al., and Douglas DS Kim\*. "Real-Time
@@ -41,6 +42,7 @@ the goal of developing reliable AI systems for quantitative finance.
   and Space Surveillance Technologies Conference (AMOS)*, 2024.
 - **[C1]** **Kim, Juhwan**, Namhyoung Kim, Seung Eun Ock, and Jae Wook Song\*. "Pairs trading strategies based on
   contrastive learning in the US stock market." *Spring Joint Conference of KIIE/KORMS*, 2024.05, Yeosu, Korea.
+  [![Code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JUHWANKIM-ai/Pairs_Trading)
 
 **Journal**
 - **[J2]** **Kim, Juhwan.** "Reinforcement learning for deep hedging with convex risk measures." *Proceedings of
@@ -65,6 +67,7 @@ the goal of developing reliable AI systems for quantitative finance.
   <br><sub>Multimodal forecasting combining stock price time series and news text</sub>
 - 🥈 **2nd Prize**, 2024 National Collegiate Motorboat Racing Data Analytics Competition, Korea Sports Promotion
   Foundation (KSPO) · 2024.10
+  <br><sub>Boat-ranking probabilities with a PPO agent that selects the bet type · [![Code](https://img.shields.io/badge/code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/JUHWANKIM-ai/KBOAT)</sub>
 - 📜 KCCI Computer Specialist in Spreadsheet & Database (Level I) · 2022.12
 
 ## ✨ Extracurricular Activities

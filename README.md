@@ -2,11 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E9D5FF,50:C4B5FD,100:8B5CF6&height=150&section=header" width="100%" alt="" />
 </p>
 
-## 🌱 About Me
-
-I'm a Ph.D. student in Industrial Engineering (Financial Engineering) at **Hanyang University**, advised by
-Prof. Jae Wook Song at the [FinX Lab](https://finx.hanyang.ac.kr/members/students) (Financial Innovation & Decision
-Analytics Lab.).
+## 🌱 About Me
 
 My research lies in **AI in Finance**, focusing on deep learning approaches such as **diffusion-based generative
 models** and **reinforcement learning**. I apply them to financial modeling, risk management and decision making, with
